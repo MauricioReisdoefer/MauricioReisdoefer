@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Rendify Project
+- 🔭 I’m currently working on the Rendify, Creature Card Project & Sportiv Projects
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
@@ -17,6 +17,7 @@
 ## Projects
 - **Rendify Project** – An investment app simulator with real time stocks [Frontend](https://github.com/MauricioReisdoefer/rendify-frontend) | [Backend](https://github.com/MauricioReisdoefer/rendify-backend)
 - **Game (Creature Card Project)** – A basic card game with Flutter local database [Github](https://github.com/LeoLorde/game)
+- **Sportiv** – A Sports Tournament Creator App [Backend](https://github.com/MauricioReisdoefer/sportiv-backend)
 
 ## Skills / Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -41,4 +42,3 @@ The languages shown here are influenced by my Flutter projects, so some language
 
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
-- **Untitled Tournament App** – An app to organize local sports tournaments and acess results (planning stage)
