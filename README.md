@@ -29,6 +29,7 @@
 
 ## GitHub Stats
 ![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioReisdoefer&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioReisdoefer&layout=compact&theme=radical)
 
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
