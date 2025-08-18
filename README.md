@@ -29,7 +29,16 @@
 
 ## GitHub Stats
 ![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioReisdoefer&show_icons=true&theme=radical)
+
+## Top Languages
+The languages shown here are influenced by my Flutter projects, so some languages like HTML, CMake, Swift and C++ might appear more than usual.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioReisdoefer&layout=compact&theme=radical)
+
+## Commit Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioReisdoefer&theme=radical)
+
+# Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=MauricioReisdoefer)
 
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
