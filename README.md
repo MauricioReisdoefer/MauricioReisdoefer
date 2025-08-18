@@ -15,7 +15,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Projects
-- **Rendify Project** – An investment app simulator with real time stocks [GitHub Frontend](https://github.com/MauricioReisdoefer/rendify-frontend)[Github Backend](https://github.com/MauricioReisdoefer/rendify-backend)
+- **Rendify Project** – An investment app simulator with real time stocks [Frontend](https://github.com/MauricioReisdoefer/rendify-frontend) | [Backend](https://github.com/MauricioReisdoefer/rendify-backend)
 - **Game (Creature Card Project)** – A basic card game with Flutter local database [Github](https://github.com/LeoLorde/game)
 
 ## Skills / Technologies
