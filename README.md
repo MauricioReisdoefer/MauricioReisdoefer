@@ -28,7 +28,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## GitHub Stats
-![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioReisdoefer&show_icons=true&theme=radical)
 
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
