@@ -39,9 +39,6 @@ The languages shown here are influenced by my Flutter projects, so some language
 ## Commit Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioReisdoefer&theme=radical)
 
-# Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=MauricioReisdoefer&theme=dark)
-
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
 - **Untitled Tournament App** – An app to organize local sports tournaments and acess results (planning stage)
