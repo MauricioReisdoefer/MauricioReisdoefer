@@ -32,13 +32,15 @@
 
 ## Top Languages
 The languages shown here are influenced by my Flutter projects, so some languages like HTML, CMake, Swift and C++ might appear more than usual.
+
+### Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioReisdoefer&layout=compact&theme=radical)
 
 ## Commit Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioReisdoefer&theme=radical)
 
 # Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=MauricioReisdoefer)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MauricioReisdoefer&theme=dark)
 
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
