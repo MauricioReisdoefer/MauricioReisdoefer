@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Rendify, Creature Card Project & Sportiv Projects
+- 🔭 I’m currently working on the Rendify, Creature Card Project (Discontinued) & Sportiv Projects
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
@@ -42,3 +42,6 @@ The languages shown here are influenced by my Flutter projects, so some language
 
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
+
+Pull Requests
+[pull requests](https://img.shields.io/badge/Pull%20Requests-2-brightgreen)
