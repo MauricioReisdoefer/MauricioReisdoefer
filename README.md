@@ -43,5 +43,4 @@ The languages shown here are influenced by my Flutter projects, so some language
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
 
-Pull Requests
-![pull requests](https://img.shields.io/badge/Pull%20Requests-2-brightgreen)
+![pull requests](https://img.shields.io/badge/Pull%20Requests-2-brightgreen) ![Issues](https://img.shields.io/badge/Issues-5-blue)
