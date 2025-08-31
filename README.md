@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Rendify, Creature Card Project (Discontinued) & Sportiv Projects
+- 🔭 I’m currently working on the Rendify, FastJsonDB & Sportiv Projects
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
@@ -17,6 +17,7 @@
 ## Projects
 - **Rendify Project** – An investment app simulator with real time stocks [Frontend](https://github.com/MauricioReisdoefer/rendify-frontend) | [Backend](https://github.com/MauricioReisdoefer/rendify-backend)
 - **Game (Creature Card Project)** – A basic card game with Flutter local database [Github](https://github.com/LeoLorde/game)
+- **FastJsonDB** - A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
 - **Sportiv** – A Sports Tournament Creator App [Backend](https://github.com/MauricioReisdoefer/sportiv-backend)
 
 ## Skills / Technologies
