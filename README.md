@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Rendify, FastJsonDB & Sportiv Projects
+- 🔭 I’m currently working on the FastJsonDB, C Data Structures, ForumLite (With FastJsonDB) & Sportiv Projects
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
@@ -17,8 +17,10 @@
 ## Projects
 - **Rendify Project** – An investment app simulator with real time stocks [Frontend](https://github.com/MauricioReisdoefer/rendify-frontend) | [Backend](https://github.com/MauricioReisdoefer/rendify-backend)
 - **Game (Creature Card Project)** – A basic card game with Flutter local database [Github](https://github.com/LeoLorde/game)
-- **FastJsonDB** - A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
+- **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
 - **Sportiv** – A Sports Tournament Creator App [Backend](https://github.com/MauricioReisdoefer/sportiv-backend)
+- **C Data Structures** – Implementations in C inspired by the book mentioned in the repository. [C Data Structures](https://github.com/MauricioReisdoefer/c-data-structures)  
+- **ForumLite** – A forum built with FastJsonDB to showcase its capabilities. [Backend](https://github.com/MauricioReisdoefer/forumLite-backend) | [Frontend](https://github.com/MauricioReisdoefer/forumLite-frontend)  
 
 ## Skills / Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
