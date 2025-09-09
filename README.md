@@ -27,7 +27,7 @@
 ### Highlight Project ###
 - **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
 
-[![fastJsonDB](https://img.shields.io/badge/fastJsonDB-v0.3.5-02569B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MauricioReisdoefer/fastjson-db)
+[![fastJsonDB](https://img.shields.io/badge/fastJson-DB-v0.3.5-02569B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MauricioReisdoefer/fastjson-db)
 
 ## Skills / Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -53,4 +53,4 @@ The languages shown here are influenced by my Flutter projects, so some language
 ## Future Projects
 - **4Menu** – A menu and restaurant management app (under development)
 
-![pull requests](https://img.shields.io/badge/Pull%20Requests-2-brightgreen) ![Issues](https://img.shields.io/badge/Issues-6-blue)
+![pull requests](https://img.shields.io/badge/Pull%20Requests-2-brightgreen) ![Issues](https://img.shields.io/badge/Issues-7-blue)
