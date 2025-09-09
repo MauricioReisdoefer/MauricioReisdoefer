@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the FastJson-DB [![fastJsonDB](https://img.shields.io/badge/fastJsonDB-v0.3.5-02569B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MauricioReisdoefer/fastjson-db)
+- 🔭 I’m currently working on the FastJson-DB
 , C Data Structures & Java Roadmap
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me:  
@@ -19,11 +19,14 @@
 ## Projects
 - **Rendify Project** – An investment app simulator with real time stocks [Frontend](https://github.com/MauricioReisdoefer/rendify-frontend) | [Backend](https://github.com/MauricioReisdoefer/rendify-backend)
 - **Game (Creature Card Project)** – A basic card game with Flutter local database [Github](https://github.com/LeoLorde/game)
-- **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
 - **Sportiv** – A Sports Tournament Creator App [Backend](https://github.com/MauricioReisdoefer/sportiv-backend)
 - **C Data Structures** – Implementations in C inspired by the book mentioned in the repository. [C Data Structures](https://github.com/MauricioReisdoefer/c-data-structures)  
 - **ForumLite** – A forum built with FastJsonDB to showcase its capabilities. [Backend](https://github.com/MauricioReisdoefer/forumLite-backend) | [Frontend](https://github.com/MauricioReisdoefer/forumLite-frontend)
 - **Java Roadmap** - My java roadmap (my evolution and basic projects)
+
+### Highlight Project ###
+- **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
+[![fastJsonDB](https://img.shields.io/badge/fastJsonDB-v0.3.5-02569B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MauricioReisdoefer/fastjson-db)
 
 ## Skills / Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
