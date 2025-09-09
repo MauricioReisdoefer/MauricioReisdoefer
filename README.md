@@ -26,6 +26,7 @@
 
 ### Highlight Project ###
 - **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
+
 [![fastJsonDB](https://img.shields.io/badge/fastJsonDB-v0.3.5-02569B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MauricioReisdoefer/fastjson-db)
 
 ## Skills / Technologies
