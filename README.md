@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
-  - LinkedIn: [Maurício Reisdoefer](https://www.linkedin.com/in/mauricio-reisdoefer-5a4768323/)
+  - LinkedIn: [Maurício Reisdoefer]([https://www.linkedin.com/in/mauricio-reisdoefer-5a4768323/](https://www.linkedin.com/in/maur%C3%ADcio-reisdoefer/))
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
