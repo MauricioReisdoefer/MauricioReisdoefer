@@ -21,7 +21,6 @@
 - **Game (Creature Card Project)** – A basic card game with Flutter local database [Github](https://github.com/LeoLorde/game)
 - **Sportiv** – A Sports Tournament Creator App [Backend](https://github.com/MauricioReisdoefer/sportiv-backend)
 - **C Data Structures** – Implementations in C inspired by the book mentioned in the repository. [C Data Structures](https://github.com/MauricioReisdoefer/c-data-structures)  
-- **ForumLite** – A forum built with FastJsonDB to showcase its capabilities. [Backend](https://github.com/MauricioReisdoefer/forumLite-backend) | [Frontend](https://github.com/MauricioReisdoefer/forumLite-frontend)
 - **Java Roadmap** - My java roadmap (my evolution and basic projects)
 
 ### Highlight Project ###
