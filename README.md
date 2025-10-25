@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the FastJson-DB
-, C Data Structures & Java Roadmap
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Litestar and DoctorHub
+- 🌱 I’m currently learning C
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
   - LinkedIn: [Maurício Reisdoefer]([https://www.linkedin.com/in/mauricio-reisdoefer-5a4768323/](https://www.linkedin.com/in/maur%C3%ADcio-reisdoefer/))
@@ -22,11 +21,11 @@
 - **Sportiv** – A Sports Tournament Creator App [Backend](https://github.com/MauricioReisdoefer/sportiv-backend)
 - **C Data Structures** – Implementations in C inspired by the book mentioned in the repository. [C Data Structures](https://github.com/MauricioReisdoefer/c-data-structures)  
 - **Java Roadmap** - My java roadmap (my evolution and basic projects)
+- **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
+- **DoctorHub** - Still not complete, a agendament app with backend and frontend.
 
 ### Highlight Project ###
-- **FastJsonDB** – A lightweight json simulation of a database [Github](https://github.com/MauricioReisdoefer/fastjson-db)
-
-[![fastJsonDB](https://img.shields.io/badge/fastJsonDB-v0.3.5-02569B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MauricioReisdoefer/fastjson-db)
+- **DoctorHub** - Still not complete, a agendament app with backend and frontend. [Backend](https://github.com/LeoLorde/appMedico_back-end/) | [Frontend](https://github.com/LeoLorde/appMedico_front-end/)
 
 ## Skills / Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -49,7 +48,4 @@ The languages shown here are influenced by my Flutter projects, so some language
 ## Commit Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioReisdoefer&theme=radical)
 
-## Future Projects
-- **4Menu** – A menu and restaurant management app (under development)
-
-![pull requests](https://img.shields.io/badge/Pull%20Requests-2-brightgreen) ![Issues](https://img.shields.io/badge/Issues-7-blue)
+![pull requests](https://img.shields.io/badge/Pull%20Requests-8-brightgreen) ![Issues](https://img.shields.io/badge/Issues-7-blue)
