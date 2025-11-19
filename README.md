@@ -29,6 +29,7 @@
 
 ### Brazilian ###
 - **Brazilian** - A python library about faking / validating brazilian common data. [Source Code](https://github.com/MauricioReisdoefer/brazilian)
+  
 [![GitHub Stars](https://img.shields.io/github/stars/MauricioReisdoefer/brazilian.svg?style=flat&label=Stars)](https://github.com/MauricioReisdoefer/brazilian/stargazers)
 [![PyPI - Downloads](https://pepy.tech/badge/brazilian/month)](https://pepy.tech/project/brazilian)
 
