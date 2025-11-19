@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Litestar and DoctorHub
-- 🌱 I’m currently learning C
+- 🔭 I’m currently working on DoctorHub
+- 🌱 I’m currently learning C, Microservices and Compilers
 - 📫 How to reach me:  
   - Email: [mauricio.reisdoefer2009@gmail.com](mailto:mauricio.reisdoefer2009@gmail.com)  
   - LinkedIn: [Maurício Reisdoefer]([https://www.linkedin.com/in/mauricio-reisdoefer-5a4768323/](https://www.linkedin.com/in/maur%C3%ADcio-reisdoefer/))
@@ -26,6 +26,12 @@
 
 ### Highlight Project ###
 - **DoctorHub** - Still not complete, a agendament app with backend and frontend. [Backend](https://github.com/LeoLorde/appMedico_back-end/) | [Frontend](https://github.com/LeoLorde/appMedico_front-end/)
+
+### Brazilian ###
+- **Brazilian** - A python library about faking / validating brazilian common data. [Source Code](https://github.com/MauricioReisdoefer/brazilian)
+[![GitHub Stars](https://img.shields.io/github/stars/MauricioReisdoefer/brazilian.svg?style=flat&label=Stars)](https://github.com/MauricioReisdoefer/brazilian/stargazers)
+[![PyPI - Downloads](https://pepy.tech/badge/brazilian/month)](https://pepy.tech/project/brazilian)
+
 
 ## Skills / Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
