@@ -9,8 +9,7 @@
 
 ## Minhas Estatísticas no GitHub
 
-<!--START_SECTION:box_days-->
-<!--END_SECTION:box_days-->
+<!-- stats -->
 
 ---
 
