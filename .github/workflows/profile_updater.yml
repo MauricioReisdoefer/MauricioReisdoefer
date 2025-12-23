@@ -10,10 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: alfred1995/productive-box@master
         with:
-          comment_tag_name: "PRODUCTIVITY"
-          feed_list: "https://api.github.com/users/MauricioReisdoefer/events/public"
-          max_post_count: 10000
-          template: |
-            $blog_post_list
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TIMEZONE: "America/Sao_Paulo"

@@ -9,8 +9,8 @@
 
 ## Minhas Estatísticas no GitHub
 
-<!--START_SECTION:productivity-->
-<!--END_SECTION:productivity-->
+<!--START_SECTION:box_days-->
+<!--END_SECTION:box_days-->
 
 ---
 
