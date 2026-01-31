@@ -1,6 +1,7 @@
 # Olá, eu sou o Maurício! 👋
 
-- 🌱 Atualmente aprendendo C, Microsserviços e Compiladores.
+- 🌱 Atualmente aprendendo C
+- Trabalhando em Game Dev e em uma Game Engine com SDL3
 - 📫 Como falar comigo:
   - **Email**: <mauricio.reisdoefer2009@gmail.com>
   - **LinkedIn**: [Maurício Reisdoefer](https://www.linkedin.com/in/maurício-reisdoefer/ )
