@@ -1,7 +1,9 @@
 # Olá, eu sou o Maurício! 👋
 
 - 🌱 Atualmente aprendendo C
-- Trabalhando em Game Dev e em uma Game Engine com SDL3
+- Trabalhando com Game Dev
+- Desenvolvendo uma Game Engine em C com SDL3
+- Desenvolvendo jogos com C# e Unity
 - 📫 Como falar comigo:
   - **Email**: <mauricio.reisdoefer2009@gmail.com>
   - **LinkedIn**: [Maurício Reisdoefer](https://www.linkedin.com/in/maurício-reisdoefer/ )
