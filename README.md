@@ -2,7 +2,8 @@
 
 - 🌱 Atualmente aprendendo C
 - Trabalhando com Game Dev
-- Desenvolvendo uma Game Engine em C com SDL3
+- Desenvolvendo uma Game Engine em C com SDL3 e um Editor de Imagem Bitmap em C
+  
 - Desenvolvendo jogos com C# e Unity
 - 📫 Como falar comigo:
   - **Email**: <mauricio.reisdoefer2009@gmail.com>
